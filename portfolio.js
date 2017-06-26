@@ -17,3 +17,6 @@ button.innerHTML = "About Me";
     x.style.height = "210px";
     x.style.width = "150px";
 }
+
+
+</script>
